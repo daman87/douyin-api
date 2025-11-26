@@ -79,7 +79,7 @@ Includes:
 
 ## 🏠 Official Website
 
-👉 [Home Page](https://justoneapi.com/zh/?source=github&detail=justoneapi-55/douyin-api)
+👉 [Home Page](https://justoneapi.com?source=github&detail=justoneapi-55/douyin-api)
 
 Learn more about the project, data sources, and commercial integration opportunities.
 
@@ -89,7 +89,7 @@ Learn more about the project, data sources, and commercial integration opportuni
 
 If you have any questions, feedback, or partnership inquiries:
 
-👉 [Contact](https://justoneapi.com/zh/contact?source=github&detail=justoneapi-55/douyin-api)
+👉 [Contact](https://justoneapi.com/contact?source=github&detail=justoneapi-55/douyin-api)
 
 ---
 
